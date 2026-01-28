@@ -1,4 +1,4 @@
-package com.swapup.au.swapup_sign;
+package com.swapup.au;
 
 import io.flutter.embedding.android.FlutterActivity;
 
